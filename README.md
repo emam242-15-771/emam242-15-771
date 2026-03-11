@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cyber security
 - 🌱 I’m currently learning c
 - 💞️ I’m looking to collaborate on bug bounty
-- 📫 How to reach me _ mail_emam242-15-771@diu.edu.bd
+- 📫 How to reach me _ mail: emam242-15-771@diu.edu.bd
 - 😄 Pronouns: ...Dadu
 - ⚡ Fun fact: ...
 
